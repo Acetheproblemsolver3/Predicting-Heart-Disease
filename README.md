@@ -1,4 +1,4 @@
-# Predicting Heart Disease
+# Predicting Heart Disease using Machine Learning 
 Heart Disease Prediction Using KNN Algorithm (ML Project)"
 This project implements a K-Nearest Neighbors (KNN) algorithm, a supervised machine learning technique, to predict the likelihood of heart disease based on given patient data. The model is trained and tested using a dataset containing medical and clinical attributes.
 
